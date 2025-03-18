@@ -2,7 +2,7 @@
 // of given number 
 
 // Driver Class 
-class Test { 
+class fact { 
 	// Method to find factorial 
 	// of given number 
 	static int factorial(int n) 
