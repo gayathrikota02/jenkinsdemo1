@@ -1,7 +1,7 @@
 
 import java.io.*;
 
-public class GeeksforGeeks {
+public class leap {
 	// Method to check leap year
 	public static void isLeapYear(int year)
 	{
